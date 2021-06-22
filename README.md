@@ -11,7 +11,7 @@
 
 ## Description
 
-### Calorie calculator, which dwells on your basal metabolic rate
+### Simple button to toggle dark mode
 
 ## Author
 
